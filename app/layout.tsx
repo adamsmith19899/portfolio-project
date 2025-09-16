@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://waqasbukhari.vercel.app",
+    url: "https://developportfolio.vercel.app/",
     siteName: "Waqas Bukhari - Web & App Developer",
     title: "Waqas Bukhari | AI Automation Expert & Full-Stack Developer",
     description:
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     google: "your-google-verification-code",
   },
   alternates: {
-    canonical: "https://waqasbukhari.vercel.app",
+    canonical: "https://developportfolio.vercel.app/",
   },
   category: "Technology",
     generator: 'Waqas Bukhari'
@@ -91,8 +91,8 @@ export default function RootLayout({
               jobTitle: "AI Automation Expert & Full-Stack Developer",
               description:
                 "AI Automation Expert specializing in intelligent business solutions, full-stack development, and cutting-edge automation technologies.",
-              url: "https://waqasbukhari.vercel.app",
-              image: "https://waqasbukhari.vercel.app/images/waqas-bukhari.webp",
+              url: "https://developportfolio.vercel.app/",
+              image: "https://developportfolio.vercel.app//images/waqas-bukhari.webp",
               sameAs: [
                 "https://linkedin.com/in/waqasbukhari",
                 "https://github.com/waqasbukhari",
@@ -129,13 +129,13 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "WebSite",
               name: "Waqas Bukhari - Web & App Developer",
-              url: "https://waqasbukhari.vercel.app",
+              url: "https://developportfolio.vercel.app/",
               description: "Portfolio of Waqas Bukhari, AI Automation Expert specializing in intelligent business solutions, full-stack development, and cutting-edge automation technologies.",
               potentialAction: {
                 "@type": "SearchAction",
                 target: {
                   "@type": "EntryPoint",
-                  urlTemplate: "https://waqasbukhari.vercel.app/search?q={search_term_string}"
+                  urlTemplate: "https://developportfolio.vercel.app//search?q={search_term_string}"
                 },
                 "query-input": "required name=search_term_string"
               },
@@ -153,7 +153,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#fc52ff" />
         <meta name="msapplication-TileColor" content="#fc52ff" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
-        <link rel="canonical" href="https://waqasbukhari.vercel.app" />
+        <link rel="canonical" href="https://developportfolio.vercel.app/" />
         <link rel="icon" href="/images/favicon.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
