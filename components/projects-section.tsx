@@ -299,7 +299,7 @@ export default function ProjectsSection() {
                       rel="noopener noreferrer"
                     >
                       <Github size={16} />
-                      Source Code
+                      Contact
                     </motion.a>
                   </div>
                 </motion.div>
