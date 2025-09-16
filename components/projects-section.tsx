@@ -30,8 +30,7 @@ const projects = [
     tags: ["React", "Node.js", "PostgreSQL", "Microservices"],
     image: "/images/projects/business-software.webp",
     links: {
-      demo: "#",
-      github: "#",
+      demo: "#",      
     },
     features: ["Integrated Calendar", "Team Chat", "CRM System", "ERP Module"],
     color: "from-purple-500/20 to-blue-500/20",
