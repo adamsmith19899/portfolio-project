@@ -42,12 +42,12 @@ const projects = [
     longDescription:
       "These utility websites solve real-world problems with clean interfaces and instant results. Built using Next.js for server-side rendering and optimal performance, tools like video converters and ad revenue calculators are designed for speed and reliability.",
     tags: ["Next.js", "Online Tools", "MP4 to GIF", "AdSense Calculator"],
-    image: "/images/projects/habit-tracker.png",
+    image: "/images/Adsense-revenue-calculator.png",
     links: {
-      demo: "#",
+      demo: "https://informi.online/",
       github: "#",
     },
-    features: ["Habit Tracking", "Progress Analytics", "Goal Setting", "Visual Reports"],
+    features: ["Revenue Calculator", "Ad Unit Generator", "Policy Checker", "Placement Optimizer"],
     color: "from-blue-500/20 to-cyan-500/20",
   },
   {
