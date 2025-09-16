@@ -7,12 +7,12 @@ import Image from "next/image"
 
 const projects = [
   {
-    title: "TaskFlow - Productivity App",
+    title: "AI-Powered Portfolio Websites",
     description:
-      "A comprehensive mobile task management and productivity tracking app with gamification elements, rewards system, and detailed analytics.",
+      "I create stunning, high-performance portfolio websites using Next.js and AI tools to deliver modern, responsive designs tailored to your personal brand.",
     longDescription:
-      "TaskFlow is a modern productivity app that combines task management with gamification to keep users motivated. Features include daily task tracking, reward systems, productivity analytics, and social ranking features to encourage consistent habits.",
-    tags: ["React Native", "Node.js", "MongoDB", "Gamification"],
+      "Leveraging the power of Next.js and AI, I build cutting-edge portfolio websites that load fast, rank well, and convert visitors. These sites are fully responsive, SEO-optimized, and designed to showcase your work with elegance and impact.",
+    tags: ["Next.js", "AI", "Portfolio", "Frontend"],
     image: "/images/projects/task-management-app.png",
     links: {
       demo: "#",
@@ -22,12 +22,12 @@ const projects = [
     color: "from-blue-500/20 to-purple-500/20",
   },
   {
-    title: "OneSoft - Business Platform",
+    title: "Business & One-Page Websites",
     description:
-      "An all-in-one business software platform integrating calendar, chat, CRM, and ERP functionalities for streamlined business operations.",
+      "I build sleek business websites and single-product landing pages using Next.js — optimized for speed, conversions, and search engine visibility.",
     longDescription:
-      "OneSoft is a comprehensive business management platform that unifies essential business tools into one seamless experience. It includes calendar management, team communication, customer relationship management, and enterprise resource planning modules.",
-    tags: ["React", "Node.js", "PostgreSQL", "Microservices"],
+      "From corporate business sites to focused one-page product launches, I use Next.js to craft high-converting, mobile-first websites. Every site is built with performance, accessibility, and user experience as top priorities.",
+    tags: ["Next.js", "Business Websites", "One-Page", "Landing Pages"],
     image: "/images/projects/business-software.webp",
     links: {
       demo: "#",      
@@ -36,12 +36,12 @@ const projects = [
     color: "from-purple-500/20 to-blue-500/20",
   },
   {
-    title: "HabitFlow - Wellness Tracker",
+    title: "Online Tools & Utilities",
     description:
-      "A beautiful habit tracking application that helps users build and maintain daily routines with intuitive progress visualization.",
+      "I develop practical online tools like MP4 to GIF converters and Google AdSense revenue calculators — simple, fast, and built with Next.js for maximum efficiency.",
     longDescription:
-      "HabitFlow makes habit building enjoyable with its clean interface and comprehensive tracking features. Users can set goals, track progress, and visualize their journey towards better habits with detailed analytics and motivational insights.",
-    tags: ["Flutter", "Firebase", "Analytics", "UI/UX"],
+      "These utility websites solve real-world problems with clean interfaces and instant results. Built using Next.js for server-side rendering and optimal performance, tools like video converters and ad revenue calculators are designed for speed and reliability.",
+    tags: ["Next.js", "Online Tools", "MP4 to GIF", "AdSense Calculator"],
     image: "/images/projects/habit-tracker.png",
     links: {
       demo: "#",
@@ -51,12 +51,12 @@ const projects = [
     color: "from-blue-500/20 to-cyan-500/20",
   },
   {
-    title: "Film Fan Finder",
+    title: "Next.js Frontend Mastery",
     description:
-      "An intelligent movie recommendation platform that helps users discover films based on their preferences and viewing history.",
+      "Next.js is my go-to framework for building next-level frontend experiences — from static sites to dynamic web apps with seamless navigation and SEO.",
     longDescription:
-      "Film Fan Finder uses advanced recommendation algorithms to suggest movies tailored to individual tastes. The platform analyzes viewing patterns, ratings, and preferences to provide personalized movie recommendations with detailed information and reviews.",
-    tags: ["React", "Python", "Machine Learning", "API Integration"],
+      "I harness the full power of Next.js to create blazing-fast, SEO-friendly websites with features like SSR, ISR, API routes, and image optimization. Whether it’s a marketing site or a complex web app, Next.js delivers unmatched frontend performance.",
+    tags: ["Next.js", "Frontend Development", "SSR", "SEO"],
     image: "/images/projects/film-finder.png",
     links: {
       demo: "#",
@@ -66,12 +66,12 @@ const projects = [
     color: "from-purple-500/20 to-pink-500/20",
   },
   {
-    title: "AI Automation Consultant",
+    title: "AI + Next.js Web Solutions",
     description:
-      "A sophisticated AI-powered automation platform that provides intelligent solutions for business process optimization and workflow automation.",
+      "Combining AI capabilities with Next.js architecture, I build intelligent, adaptive websites that respond to user behavior and deliver personalized experiences.",
     longDescription:
-      "This AI automation platform serves as a virtual consultant, helping businesses identify automation opportunities and implement intelligent workflows. It features conversation-based interaction, solution recommendations, and automated process analysis.",
-    tags: ["AI/ML", "Python", "React", "Natural Language Processing"],
+      "By integrating AI tools with Next.js, I create smarter websites — whether it’s content generation, dynamic layout adaptation, or predictive user interfaces. This fusion delivers next-generation web experiences that are both powerful and intuitive.",
+    tags: ["AI", "Next.js", "Web Development", "Personalization"],
     image: "/images/projects/ai-automation.png",
     links: {
       demo: "#",
