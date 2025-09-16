@@ -57,9 +57,9 @@ const projects = [
     longDescription:
       "I harness the full power of Next.js to create blazing-fast, SEO-friendly websites with features like SSR, ISR, API routes, and image optimization. Whether it’s a marketing site or a complex web app, Next.js delivers unmatched frontend performance.",
     tags: ["Next.js", "Frontend Development", "SSR", "SEO"],
-    image: "/images/projects/film-finder.png",
+    image: "/images/devbuddy.png",
     links: {
-      demo: "#",
+      demo: "https://devbuddy.online/",
       github: "#",
     },
     features: ["AI Recommendations", "Movie Database", "User Profiles", "Review System"],
